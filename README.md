@@ -48,9 +48,10 @@ Harmonics significantly influence voltage stability in radial distribution syste
 [3]: https://scholar.its.ac.id/en/publications/harmonic-effect-for-voltage-stability-condition-in-radial-distrib
 [4]: https://www.researchgate.net/publication/281422129_Voltage_Stability_Assessment_in_Radial_Distribution_Power_System/fulltext/5a32248daca27271445c650c/Voltage-Stability-Assessment-in-Radial-Distribution-Power-System.pdf
 
-Source: Conversation with Copilot, 6/28/2024
+
 (1) Voltage Stability Analyis of Radial Distribution Systems by Considering .... https://ieeexplore.ieee.org/document/8668125/.
 (2) Harmonic Effect For Voltage Stability Condition In Radial Distribution .... https://ieeexplore.ieee.org/document/8937215/.
 (3) Harmonic Effect for Voltage Stability Condition in Radial Distribution .... https://scholar.its.ac.id/en/publications/harmonic-effect-for-voltage-stability-condition-in-radial-distrib.
 (4) Voltage Stability Assessment in Radial Distribution Power System. https://www.researchgate.net/publication/281422129_Voltage_Stability_Assessment_in_Radial_Distribution_Power_System/fulltext/5a32248daca27271445c650c/Voltage-Stability-Assessment-in-Radial-Distribution-Power-System.pdf.
-(5) undefined. https://ieeexplore.ieee.org/servlet/opac?punumber=8663973.
+
+
